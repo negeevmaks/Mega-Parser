@@ -18,4 +18,3 @@ You can effortlessly install the necessary packages by executing the following c
 
 ```bash
 pip install requests beautifulsoup4 openpyxl
-```
