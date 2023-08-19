@@ -1,0 +1,13 @@
+# Auto Listings Web Scraping Project
+
+This project involves web scraping car sale listings from various websites to gather information about cars available for sale in Ukraine. The script extracts details such as model, price, and contact information of the seller.
+
+## Requirements
+
+Before you start, ensure you have met the following requirements:
+- Python 3.x installed
+- Required Python packages: `requests`, `bs4 (BeautifulSoup)`, `openpyxl`
+
+You can install the required packages using the following command:
+```bash
+pip install requests beautifulsoup4 openpyxl
